@@ -1,0 +1,13 @@
+ body {   background-color: RGB(146, 168, 209); }
+ h1, h3 {
+   font-family:Candara,Geneva,sans-serif;   text-align: center;
+ }
+
+ .onbutton, .copyData {   margin-top: 10px;   display: flex;   justify-content: center;   align-items: center;   height: 30px;
+ }
+ .output_code,.myDiv  {
+   text-align: center;   font-family: monospace;
+
+
+ }
+
